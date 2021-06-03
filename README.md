@@ -4,7 +4,7 @@
 ## Preparar el proyecto
 1. Clone el repositorio raiz
 
-	`git clone https://gitlab.com/icalapuja/empresax.permiso.git`
+	`git clone https://github.com/icalapuja/permisos.git`
 
 2. El proyecto `empresax.permiso.api` se conecta a una base de datos Postgree existente. Sin embargo, puede conectarse a otra base de datos cambiando el parámetro ConnectionString del archivo `appsettings.json` y ejecutando el archivo `script.sql` en la base de datos. 
 
