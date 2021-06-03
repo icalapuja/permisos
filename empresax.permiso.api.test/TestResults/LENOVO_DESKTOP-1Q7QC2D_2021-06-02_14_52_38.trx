@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="92818c49-7917-4fa5-a25a-90e2eccb9ff0" name="LENOVO@DESKTOP-1Q7QC2D 2021-06-02 14:52:38" runUser="DESKTOP-1Q7QC2D\LENOVO" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-06-02T14:52:38.0752825-05:00" queuing="2021-06-02T14:52:38.0752838-05:00" start="2021-06-02T14:52:36.8650217-05:00" finish="2021-06-02T14:52:38.1158469-05:00" />
+  <TestSettings name="default" id="8d667b31-bc9b-4c19-9c42-a51847d1df33">
+    <Deployment runDeploymentRoot="LENOVO_DESKTOP-1Q7QC2D_2021-06-02_14_52_38" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="caa7cc6b-2435-4488-b353-71237eb6b9e6" testId="7d16d8f1-e277-dc4f-d183-119844044ad2" testName="create" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0118860" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="caa7cc6b-2435-4488-b353-71237eb6b9e6" />
+    <UnitTestResult executionId="2bf300c4-3a91-46db-8524-2abfc169064d" testId="292724bb-1e2e-5576-5ff1-af272d3a4734" testName="validate" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0003710" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bf300c4-3a91-46db-8524-2abfc169064d" />
+    <UnitTestResult executionId="4dd9ff60-c6fd-4cd3-972b-cd8528188fc2" testId="7f8c131e-83c5-7252-baaf-de25e78f0eb0" testName="getDTO" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0046870" startTime="2021-06-02T14:52:38.0000000-05:00" endTime="2021-06-02T14:52:38.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4dd9ff60-c6fd-4cd3-972b-cd8528188fc2" />
+    <UnitTestResult executionId="aff44482-1a36-4e6a-b86f-244a4ada9092" testId="fafcc448-d0b0-6ef0-f349-a38358d123a9" testName="list" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0007700" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aff44482-1a36-4e6a-b86f-244a4ada9092" />
+    <UnitTestResult executionId="ead84b4d-1025-4f2f-b229-a361a78d8760" testId="423fbcea-3931-10dc-a48b-2140fe4c1a17" testName="list" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0483270" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ead84b4d-1025-4f2f-b229-a361a78d8760" />
+    <UnitTestResult executionId="ef1cbf69-f1b6-44fe-b5db-4ec8f73c9339" testId="350e558e-6dc9-20e6-19a0-58d4df83a2c0" testName="getAggregates" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0004830" startTime="2021-06-02T14:52:38.0000000-05:00" endTime="2021-06-02T14:52:38.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef1cbf69-f1b6-44fe-b5db-4ec8f73c9339" />
+    <UnitTestResult executionId="2a9026a8-fb7e-4854-bf3d-8d5918e5a19a" testId="9d7fe1bb-dd86-5e90-3d52-6a3a1e9ba0e3" testName="update" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0007730" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2a9026a8-fb7e-4854-bf3d-8d5918e5a19a" />
+    <UnitTestResult executionId="6001877b-8772-4588-a7de-adf97bf2e830" testId="3bf529a7-d1ba-f6a4-188e-b750045a6328" testName="list" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0002960" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6001877b-8772-4588-a7de-adf97bf2e830" />
+    <UnitTestResult executionId="79d0cf01-c812-4bd5-ad01-766aa3d9afb8" testId="979e5997-9f0c-2b58-9f5a-be095685c2af" testName="getDTOs" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0001800" startTime="2021-06-02T14:52:38.0000000-05:00" endTime="2021-06-02T14:52:38.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79d0cf01-c812-4bd5-ad01-766aa3d9afb8" />
+    <UnitTestResult executionId="9409bb22-65f5-46b2-9621-92de3da51d70" testId="b5c55b33-8b31-3039-4a90-6d089bb109dd" testName="getAggregate" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0172170" startTime="2021-06-02T14:52:38.0000000-05:00" endTime="2021-06-02T14:52:38.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9409bb22-65f5-46b2-9621-92de3da51d70" />
+    <UnitTestResult executionId="64564db4-52a5-41d0-8ddd-51b4061682bc" testId="484a91c1-0fb0-0919-43fa-88333fd272a3" testName="create" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0087180" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64564db4-52a5-41d0-8ddd-51b4061682bc" />
+    <UnitTestResult executionId="6903ed28-ce56-4f9d-b49c-d0a5780fbd38" testId="ea7174ff-43b5-ef31-21b2-023e4b050633" testName="get" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0003890" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6903ed28-ce56-4f9d-b49c-d0a5780fbd38" />
+    <UnitTestResult executionId="9a03e986-0937-4090-9b1a-b1444658407d" testId="f4141637-94fb-895c-0c06-28c84afb7f12" testName="update" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0008080" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a03e986-0937-4090-9b1a-b1444658407d" />
+    <UnitTestResult executionId="e7c54a92-316f-4290-a239-63325418d47d" testId="d382a7fe-a3d7-d1ac-c75e-1e29e4675531" testName="get" computerName="DESKTOP-1Q7QC2D" duration="00:00:00.0160540" startTime="2021-06-02T14:52:37.0000000-05:00" endTime="2021-06-02T14:52:37.0000000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7c54a92-316f-4290-a239-63325418d47d" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="list" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="fafcc448-d0b0-6ef0-f349-a38358d123a9">
+      <Execution id="aff44482-1a36-4e6a-b86f-244a4ada9092" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.application.service.PermissionServiceTest" name="list" />
+    </UnitTest>
+    <UnitTest name="list" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="3bf529a7-d1ba-f6a4-188e-b750045a6328">
+      <Execution id="6001877b-8772-4588-a7de-adf97bf2e830" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.repository.PermissionRepositoryTest" name="list" />
+    </UnitTest>
+    <UnitTest name="validate" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="292724bb-1e2e-5576-5ff1-af272d3a4734">
+      <Execution id="2bf300c4-3a91-46db-8524-2abfc169064d" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.application.validator.PermissionValidatorTest" name="validate" />
+    </UnitTest>
+    <UnitTest name="create" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="7d16d8f1-e277-dc4f-d183-119844044ad2">
+      <Execution id="caa7cc6b-2435-4488-b353-71237eb6b9e6" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.application.service.PermissionServiceTest" name="create" />
+    </UnitTest>
+    <UnitTest name="update" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="f4141637-94fb-895c-0c06-28c84afb7f12">
+      <Execution id="9a03e986-0937-4090-9b1a-b1444658407d" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.repository.PermissionRepositoryTest" name="update" />
+    </UnitTest>
+    <UnitTest name="get" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="ea7174ff-43b5-ef31-21b2-023e4b050633">
+      <Execution id="6903ed28-ce56-4f9d-b49c-d0a5780fbd38" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.repository.PermissionRepositoryTest" name="get" />
+    </UnitTest>
+    <UnitTest name="list" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="423fbcea-3931-10dc-a48b-2140fe4c1a17">
+      <Execution id="ead84b4d-1025-4f2f-b229-a361a78d8760" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.Controller.PermissionControllerTest" name="list" />
+    </UnitTest>
+    <UnitTest name="getAggregate" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="b5c55b33-8b31-3039-4a90-6d089bb109dd">
+      <Execution id="9409bb22-65f5-46b2-9621-92de3da51d70" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.transform.PermissionTransformTest" name="getAggregate" />
+    </UnitTest>
+    <UnitTest name="update" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="9d7fe1bb-dd86-5e90-3d52-6a3a1e9ba0e3">
+      <Execution id="2a9026a8-fb7e-4854-bf3d-8d5918e5a19a" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.application.service.PermissionServiceTest" name="update" />
+    </UnitTest>
+    <UnitTest name="getDTO" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="7f8c131e-83c5-7252-baaf-de25e78f0eb0">
+      <Execution id="4dd9ff60-c6fd-4cd3-972b-cd8528188fc2" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.transform.PermissionTransformTest" name="getDTO" />
+    </UnitTest>
+    <UnitTest name="get" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="d382a7fe-a3d7-d1ac-c75e-1e29e4675531">
+      <Execution id="e7c54a92-316f-4290-a239-63325418d47d" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.application.service.PermissionServiceTest" name="get" />
+    </UnitTest>
+    <UnitTest name="create" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="484a91c1-0fb0-0919-43fa-88333fd272a3">
+      <Execution id="64564db4-52a5-41d0-8ddd-51b4061682bc" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.repository.PermissionRepositoryTest" name="create" />
+    </UnitTest>
+    <UnitTest name="getDTOs" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="979e5997-9f0c-2b58-9f5a-be095685c2af">
+      <Execution id="79d0cf01-c812-4bd5-ad01-766aa3d9afb8" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.transform.PermissionTransformTest" name="getDTOs" />
+    </UnitTest>
+    <UnitTest name="getAggregates" storage="d:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\debug\netcoreapp3.1\empresax.permiso.api.test.dll" id="350e558e-6dc9-20e6-19a0-58d4df83a2c0">
+      <Execution id="ef1cbf69-f1b6-44fe-b5db-4ec8f73c9339" />
+      <TestMethod codeBase="D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll" adapterTypeName="executor://nunit3testexecutor/" className="empresax.permiso.api.test.infraestructure.transform.PermissionTransformTest" name="getAggregates" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7d16d8f1-e277-dc4f-d183-119844044ad2" executionId="caa7cc6b-2435-4488-b353-71237eb6b9e6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="292724bb-1e2e-5576-5ff1-af272d3a4734" executionId="2bf300c4-3a91-46db-8524-2abfc169064d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f8c131e-83c5-7252-baaf-de25e78f0eb0" executionId="4dd9ff60-c6fd-4cd3-972b-cd8528188fc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fafcc448-d0b0-6ef0-f349-a38358d123a9" executionId="aff44482-1a36-4e6a-b86f-244a4ada9092" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="423fbcea-3931-10dc-a48b-2140fe4c1a17" executionId="ead84b4d-1025-4f2f-b229-a361a78d8760" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="350e558e-6dc9-20e6-19a0-58d4df83a2c0" executionId="ef1cbf69-f1b6-44fe-b5db-4ec8f73c9339" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d7fe1bb-dd86-5e90-3d52-6a3a1e9ba0e3" executionId="2a9026a8-fb7e-4854-bf3d-8d5918e5a19a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3bf529a7-d1ba-f6a4-188e-b750045a6328" executionId="6001877b-8772-4588-a7de-adf97bf2e830" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="979e5997-9f0c-2b58-9f5a-be095685c2af" executionId="79d0cf01-c812-4bd5-ad01-766aa3d9afb8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5c55b33-8b31-3039-4a90-6d089bb109dd" executionId="9409bb22-65f5-46b2-9621-92de3da51d70" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="484a91c1-0fb0-0919-43fa-88333fd272a3" executionId="64564db4-52a5-41d0-8ddd-51b4061682bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea7174ff-43b5-ef31-21b2-023e4b050633" executionId="6903ed28-ce56-4f9d-b49c-d0a5780fbd38" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4141637-94fb-895c-0c06-28c84afb7f12" executionId="9a03e986-0937-4090-9b1a-b1444658407d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d382a7fe-a3d7-d1ac-c75e-1e29e4675531" executionId="e7c54a92-316f-4290-a239-63325418d47d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados sin formato de lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="14" executed="14" passed="14" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.15.1.0: Test execution started&#xD;
+Running all tests in D:\workspace\pr\empresax.permiso.api\empresax.permiso.api.test\bin\Debug\netcoreapp3.1\empresax.permiso.api.test.dll&#xD;
+   NUnit3TestExecutor converted 14 of 14 NUnit test cases&#xD;
+NUnit Adapter 3.15.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
