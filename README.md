@@ -1,4 +1,4 @@
-# Projeto Permiso
+# Proyecto Permiso
 
 
 ## Preparar el proyecto
@@ -8,7 +8,7 @@
 
 2. El proyecto `empresax.permiso.api` se conecta a una base de datos Postgree existente. Sin embargo, puede conectarse a otra base de datos cambiando el parámetro ConnectionString del archivo `appsettings.json` y ejecutando el archivo `script.sql` en la base de datos. 
 
-## Ejecutar el proyeto
+## Ejecutar el proyecto
 
 Haciendo uso de la terminal siga los siguientes pasos
 
@@ -23,3 +23,6 @@ Haciendo uso de la terminal siga los siguientes pasos
 	`npm install`
     `npm run serve`
 
+## Probar el proyecto
+Puede ingresar al swagger del servicio en la siguiente ruta de su navegador `https://localhost:5001/swagger/index.html`
+	

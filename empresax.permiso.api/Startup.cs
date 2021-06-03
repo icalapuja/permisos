@@ -21,7 +21,6 @@ using empresax.permiso.api.infraestructure.Controllers;
 using empresax.permiso.api.domain.repository;
 using empresax.permiso.api.infraestructure.repository;
 
-
 namespace empresax.permiso.api
 {
     public class Startup
@@ -58,6 +57,8 @@ namespace empresax.permiso.api
                     .AllowAnyHeader());
             }); ;
 
+            AddSwagger(services);
+
             services.AddControllers();
         }
 
@@ -76,9 +77,39 @@ namespace empresax.permiso.api
 
             app.UseAuthorization();
 
+            // swagger
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>{
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
+            // swagger end
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+        }
+
+
+
+        private void AddSwagger(IServiceCollection services)
+        {
+            services.AddSwaggerGen(options =>
+            {
+                var groupName = "v1";
+
+                options.SwaggerDoc(groupName, new OpenApiInfo
+                {
+                        Title = $"Permisos {groupName}",
+                        Version = groupName,
+                        Description = "API",
+                        Contact = new OpenApiContact
+                        {
+                            Name = "Ivan Calapuja",
+                            Email = "icalapuja@gmail.com",
+                            Url = new Uri("https://icalapuja.github.io/"),
+                        }
+                });
             });
         }
 
