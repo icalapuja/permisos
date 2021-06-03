@@ -15,6 +15,7 @@ Haciendo uso de la terminal siga los siguientes pasos
 1. Ejecutar API
 
 	`cd empresax.permiso.api`
+	`dotnet restore`
 	`dotnet run`
 
 
